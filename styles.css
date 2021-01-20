@@ -1,0 +1,32 @@
+.name {
+    font-family: Bebas Neue, Regular;
+    color: #008000;
+}
+
+.headings {
+    font-family: Balsamiq Sans, Regular;
+    color: #1E90FF;
+}
+
+.content {
+    font-family: Archivo Narrow, Regular;
+    color: #BA55D3;
+}
+
+img {
+    height: 350px;
+}
+
+body {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm168-adj-07a.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=60e406ca97aea13b802f625f9ee3f5fa");
+    background-repeat: no-repeat;
+    background-size: 1000px 1500px;
+    outline-style: double;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
